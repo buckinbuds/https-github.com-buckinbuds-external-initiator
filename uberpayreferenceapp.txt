@@ -1,0 +1,5 @@
+https://github.com/uber/uber-pay-reference-app
+
+https://docs.wso2.com/display/AM220/Changing+the+Default+API-M+Databases
+
+https://www.uber.com/us/en/freight/shipper/enterprise/
